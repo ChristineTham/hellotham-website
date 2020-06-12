@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/news/","result":{"data":{"site":{"siteMetadata":{"title":"Hello Tham"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2019-07-22-refresh-of-hello-tham-website/"},"frontmatter":{"title":"Refresh of Hello Tham website"}}}]}},"pageContext":{"tag":"news"}}}
